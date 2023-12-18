@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dominic Peters
-- I am a Data Analyst
+- I am a CISA Certified GRC Professional
 - You can reach me through my email: dominicpetersjnr@gmail.com
 
 <!---
